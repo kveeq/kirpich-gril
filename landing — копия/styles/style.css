@@ -81,6 +81,7 @@ header div {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-flow: row wrap;
 }
 
 .inform-item img{
